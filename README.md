@@ -11,3 +11,6 @@ The most common visual technique for bivariate analysis is a scatter plot, where
 3. Multivariate Analysis : Multivariate analysis is similar to Bivariate analysis but you are comparing more than two variables.
 For three variables, you can create a 3-D model to study the relationship (also known as Trivariate Analysis).
 In terms of visualization, Seaborn library in Python allows for pairplots where it generates one large chart of selected variables against one another in a series of scatter plots and histograms depending on the type of variable, also known as scatter plot matrix.
+
+# Machine Learning
+it's the science of getting computers to learn without being explicitly programmed. 
