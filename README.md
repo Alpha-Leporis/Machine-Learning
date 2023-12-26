@@ -13,4 +13,4 @@ For three variables, you can create a 3-D model to study the relationship (also 
 In terms of visualization, Seaborn library in Python allows for pairplots where it generates one large chart of selected variables against one another in a series of scatter plots and histograms depending on the type of variable, also known as scatter plot matrix.
 
 # Machine Learning
-it's the science of getting computers to learn without being explicitly programmed. 
+The field of study that gives computers the ability to learn without being explicitly programmed.
